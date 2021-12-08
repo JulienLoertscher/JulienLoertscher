@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JulienLoertscher
 - 👀 I’m interested in smart contracts
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Solidity
+- 💞️ I’m looking to collaborate on smart contracts
 - 📫 How to reach me: julien_loertscher@yahoo.fr
 
 <!---
